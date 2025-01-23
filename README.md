@@ -10,11 +10,6 @@
 1. [Overview](#overview)
 2. [Features](#features)
 3. [Tech Stack](#tech-stack)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
 
 ---
 
@@ -64,63 +59,6 @@ This project is ideal for those looking for an advanced **MERN stack** or **Next
 
 
 
-
----
-
-## **Installation** <a name="installation"></a>
-
-To get a local copy of **StreamVibe** up and running, follow these steps:  
-To set up and run the StreamVibe project locally, follow these steps. Make sure you have both Node.js and MongoDB installed on your machine before starting. The project consists of two parts: the backend (Node.js, Express, MongoDB) and the frontend (Next.js, React, Tailwind CSS). Each part needs to be set up separately.  
-
-### **1. Clone the backend repository**  
-Start by cloning the StreamVibe repository from GitHub:  
-```
-git clone https://github.com/your-username/streamvibe.git
-cd streamvibe
-```
-The project contains two folders: backend and frontend. You will need to set up both independently.  
-
-### **2. Backend Setup**  
-1. Navigate to the backend directory:  
-```
-cd backend
-```
-2. Install dependencies: Ensure you're inside the backend folder, then run the following command to install all necessary dependencies:
-```
-npm install
-```
-3. Run the backend server: Start the backend server with the following command:
-```
-npm run dev
-```
-This will start the backend server at http://localhost:5000. Ensure MongoDB is running locally or via your MongoDB cloud service.  
-
-
-### **3. Frontend Setup**  
-Now, you need to set up the frontend, which is located in the frontend folder.  
-1. Open a new terminal window and navigate to the frontend directory:
-```
-cd frontend
-```
-2. Install dependencies: Run the following command to install all frontend dependencies:
-```
-npm install
-```
-3. Run the frontend development server: Start the frontend server with the following command:
-```
-npm run dev
-```
-
-### **4. Final Steps**  
-Access the application: With both the backend and frontend servers running, you can now access the full StreamVibe application in your browser by visiting:  
-```
-http://localhost:3000
-```
-Ensure MongoDB is running: The backend requires MongoDB to be running. If using MongoDB locally, ensure it is running on the default port 27017. If using MongoDB Atlas, update the connection string in your .env file accordingly.  
-
-
-
-
 ## **Live Demo** <a name="live-demo"></a>
 
 ![Website Screenshot](https://github.com/amirrezaRst/StreamVibe/blob/master/frontend/public/github/streamvibe-project-desktop.png?raw=true)
@@ -128,14 +66,4 @@ Ensure MongoDB is running: The backend requires MongoDB to be running. If using 
 🔗 [Check out the live demo here!](https://streamvibe-live.liara.run/)
 
 
-## **Contact**
-
-If you're looking for collaboration on web or app development projects, or if you're in need of professional software development services, we’d be happy to connect. We are open to working with clients and other developers to deliver high-quality, successful projects.
-
-- 📧 Email: [amirreza.rostami.0073@gmail.com](mailto:amirreza.rostami.0073@gmail.com)
-- 🌐 Website: [https://amirrezarostami.ir](https://amirrezarostami.ir)
-- 💼 LinkedIn: [LinkedIn Profile Address](https://www.linkedin.com/in/amirreza-rostami-2861b7265/)
-- 🌐 Telegram: [Telegram Address](https://web.telegram.org/a/#478283953)
-
-Feel free to get in touch via email or social media if you're interested in working together.
 

@@ -63,7 +63,7 @@ This project is ideal for those looking for an advanced **MERN stack** or **Next
 
 ![Website Screenshot](https://github.com/amirrezaRst/StreamVibe/blob/master/frontend/public/github/streamvibe-project-desktop.png?raw=true)
 
-🔗 [Check out the live demo here!](https://streamvibe-live.liara.run/)
+🔗 [Check out the live demo here!](https://streamvibe.vercel.app/)
 
 
 
